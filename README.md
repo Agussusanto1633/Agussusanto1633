@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Agus%20Susanto&fontSize=42&fontAlignY=32&desc=Full%20Prompt Stack%20Developer%20|%20Tech%20Enthusiast%20|%20CR7%20Fan&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-</div>>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Agus%20Susanto&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Prompt%20Developer%20|%20Tech%20Enthusiast%20|%20CR7%20Fan&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Agus+Susanto+%F0%9F%91%8B;Full+Stack+Prompt+Developer+%F0%9F%9A%80;Building+Amazing+Web+Apps+%F0%9F%92%BB;Always+Learning+%26+Growing+%F0%9F%93%88;Cristiano+Ronaldo+Fan+%E2%9A%BD%F0%9F%94%A5" alt="Typing SVG" />
