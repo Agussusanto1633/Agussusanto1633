@@ -149,7 +149,7 @@
 > *"Dreams are not what you see in your sleep. Dreams are things which do not let you sleep."*  
 > **- Cristiano Ronaldo**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9mbWozaXpmdno3Z2E0YWl1d3owdzl0bGh2eHJrdGZmYmwybzNvMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cer3g6RXnlpaOzbZVX/giphy.gif" width="400" alt="CR7"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJnaXFwYXljM29pZXY3enJ2MnI4aGY4cHFneTQyYXFzOW8wY2F3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xB8xYGTPOZ9Gpb1Pis/giphy.gif" width="400" alt="CR7"/>
 
 **SIUUUUU! 🐐⚽🔥**
 
